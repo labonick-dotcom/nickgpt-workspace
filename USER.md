@@ -1,34 +1,148 @@
-# USER.md - About Nick
+# USER.md
 
-- **Name:** Nick Labo
-- **What to call them:** Nick
-- **Location:** St. Petersburg, Florida
-- **Timezone:** Eastern Time (America/New_York)
-- **Emoji signature for me:** 🎯
+Reference, not personality. Load on boot, search by section when relevant. Deeper context lives in reference files (see bottom). If Nick references something here, treat it as shared context.
 
-## The Person
-Smart, learns fast, not a developer. Wants to be talked to like a peer. Emotionally transparent, shares deeply (treat as trust). Comfortable with profanity. Values quality over speed on high-stakes work. Over-engineers (catch him). Strong launcher, weak closer.
+---
 
-## Health & Foundation (watch in morning brief)
-- **Adderall taper:** ~30mg/day, working down. Foundational to everything. Hard prerequisite before MDMA therapy can start.
-- **WHOOP HRV:** low 20s = nervous system in trouble (sleep degraded, gut flares, performance slips). Mid-50s+ = regulated. Flag when off.
-- **Gym:** 3-4x/week. Blue belt in jiu-jitsu (not trained in over a year, may restart).
-- **Wim Hof breathwork:** most consistent, highest-leverage tool. Cold plunge + sauna at Balance House.
+## WHO NICK IS
 
-## Personal Stack
-- **Buddy:** dog, boxer-pitbull mix, ~8-9yo, central to daily life. Vet: Dr. Janell. Travel/vet/separation anxiety factor into planning.
-- **Angie (Angela):** active developing relationship, Fort Lauderdale. Met in person mid-2026 after a month of deep daily comms + 2 years prior acquaintance. Higher stakes. Draft comms to/about her, never send without approval.
-- **IgKnight The King:** men's brotherhood, founder Dr. Michael Diamond. 3.5-day immersive retreats (Lover, Warrior, Magician, King archetypes) + weekly calls. OFFLINE entirely during retreats. Renewed at $21K/year. Negotiating AI-for-tuition-break deal with Michael (no agreement yet).
-- **Therapy:** Allyson (new, MDMA-assisted therapy specialist). $18K/year, three 90-min Zoom sessions/month. Focus: somatic healing, childhood trauma. Wants Nick clean off Adderall before MDMA work. Referred him to a counterpart for addiction work. Ibogaine on the table later. Previous therapist Dr. Charlie wrapped ~2 weeks ago.
+Nick Labo. Born March 29, 1992 (34). Lives in St. Petersburg, Florida. Eastern Time.
 
-## Family & Friends
-- **Mom Karen:** Florida, recently diagnosed rare blood cancer, talk often, can be emotionally demanding.
-- **Robert (stepdad):** mom's partner, very smart, overwhelming at times, helped raise Nick 15 years.
-- **Uncle Bob (Robert Coakley):** 28-yr corporate sales trainer, Orange County. Weekly life/sales coaching meets. Also a NickGPT prospect.
-- **Brian Steel:** best friend, met at Gartner, in Dallas, moving to FL this year.
-- **Gabe:** closest local friend, Fort Myers, the truth-teller Nick checks against.
+Two jobs in parallel: (1) Microsoft Enterprise AE, Business Applications (Dynamics 365, Power Platform, Copilot Studio), 6+ years, provides stability. (2) NickGPT, AI consulting business, the mission. Goal: leave Microsoft to run NickGPT full-time. Direction clear, timeline not fixed. He weaves consulting work throughout the day alongside Microsoft, not just nights/weekends.
 
-## Preferences / Hard Rules
-- Sign emails just "Nick."
-- No em dashes, ever, in anything.
-- Plain language, no jargon.
+Background: 10+ years enterprise tech sales (Gartner, Qualtrics, Salesforce, Microsoft). Fortune 500 experience (Google, Netflix, Shutterfly). MBA from LSU (Data Analytics concentration). Deep fluency in MEDDPICC, Challenger Sale, territory planning, executive engagement.
+
+What makes Nick different: not an AI technologist. A sales professional who translates AI into real business leverage for people who know what they want but can't build it themselves.
+
+Cognitive profile: ADHD (diagnosed). Enneagram 7 (Enthusiast). ENFP (may have shifted). Dominant Ne, underdeveloped Si: strong launches, weak closure. Processes externally by talking and writing.
+
+Hardware: MacBook Air 15-inch M5 (personal, consulting). Surface Laptop 5 (Microsoft and consulting, both machines are mixed-use). Microsoft corporate SYSTEMS and DATA are off-limits to this agent, but the device is not the boundary.
+
+---
+
+## PERSONAL LIFE (OVERVIEW)
+
+Lives alone with **Buddy** (boxer-pitbull mix, ~8-9 yrs, central to daily life, complex health history). **Angie** (active developing romantic relationship, May 2026 onward, based in Fort Lauderdale, INFP, Advaita Vedanta framework, first partner who pushes back and holds her own). **Mom Karen** (closest confidant, recently diagnosed with rare blood cancer, complex history). **Uncle Bob** (weekly anchor, also a NickGPT prospect). **Gabe** (closest friend, Fort Myers). **Brian Steel** (best friend, moving to Florida). **Sister Jenna** (Tampa, sober 8 yrs, primary emotional support). **Dad Steve** (South Carolina, reconnected). Brothers Chris (Raleigh) and Stevie (Nashville).
+
+Member of **IgKnight Brotherhood** ($21K/yr men's development, Michael Diamond). Volunteers with **All Things Made New** (5+ yrs mentoring boys). Christian faith, reflective and evolving.
+
+See `personal/nick-personal-deep-context.md` for detailed family, relationship, and personal development context.
+
+---
+
+## HEALTH (CURRENT STATE)
+
+Tracks via **WHOOP**. HRV in the low 20s = warning signal (Adderall, dysregulation). Mid-50s+ = regulated. Performance at Microsoft and consulting directly tracks nervous system state.
+
+**Adderall:** ~15 years, completed 8-month detox 2025, relapsed Dec 2025. Restarted January 2026 at 7mg and has been consistently escalating since. Currently at 60mg/day (full prescription). The March 2026 keynote was delivered at 7mg (strongest personal proof of what's possible without it). Getting fully off is a prerequisite for MDMA therapy with **Allyson** ($18K/yr contract, somatic/trauma healing, the most substantial therapeutic investment of his life).
+
+**What consistently helps:** sleep extension, movement, breathwork, cold plunge, sunlight, journaling, accountability, routine.
+**What consistently hurts:** Adderall, kratom, nicotine, unstructured time alone, relationship misalignment, gut flares.
+
+Physical practice: gym 3-4x/week, pickleball, Wim Hof breathwork, cold plunge/sauna (Balance House), sunrise workout group (consistency is the active project).
+
+See `personal/nick-personal-deep-context.md` for full biohacking stack, substance timeline, therapy history, and identity frameworks.
+
+---
+
+## PATTERNS AND BLIND SPOTS
+
+Recognize without lecturing. Name once when active, move forward.
+
+- **The Perpetual Preparation Loop.** Uses preparing-to-change as a substitute for living. The insight becomes the drug. Planning, optimizing, or analyzing endlessly = this pattern.
+- **Strong launches, weak closure.** Starts strong, drifts on maintenance and follow-through.
+- **Over-engineering.** Polishes past the point of value. If he's refining something already good enough, say so directly.
+- **Stays too long.** In relationships, past gut knowing, out of fear and obligation. Angie is meaningfully different.
+- **Performance tracks nervous system state.** Regulated Nick wins deals. Dysregulated Nick slips toward performance plans.
+- **Attraction wired toward intensity over safety.** Self-acknowledged, actively working on it.
+- **Control impulse.** Michael Diamond's antidote: trust and surrender.
+- **Spends too much time in his head.** Sometimes the work is to stop working.
+
+---
+
+## DAILY RHYTHM
+
+Weekdays 8am-5pm ET: mixed mode, Microsoft and consulting woven throughout. Mornings pre-8am: focused window, sunrise workouts, coffee, breathwork. Evenings: consulting, brotherhood calls, gym, time with Angie. Weekends: heavy consulting, retreats, Angie visits. Best at: discovery calls, framing, vision-setting, launches, anything in front of people. Procrastinates on: admin, finance, closing things out, sending held emails, posting socials.
+
+---
+
+## THE BUSINESS: NICKGPT
+
+Sole proprietor, Schedule C, Chase Business Complete Checking. S-Corp planned later (CPA: Richard Gruber).
+
+**Services:** (1) UYSP 1:1 coaching ($1,000/hr to client, 50/50 split, capacity 15 hrs/month). (2) Cowork workspace implementation ($750 founding, scales to $1,500-2,000). (3) OpenClaw client instances ($2,500-50,000+ setup + retainer). **Current revenue reality:** retainer + coaching only. No large implementation clients yet. Strong pipeline building.
+
+**Partner: Daniel Borodyansky** (daniel@mnds.ai, collaborator Gorski). Similar skill sets, neither is a traditional developer. Daniel is the OpenClaw specialist. Shared pipeline, Tuesday sync. Moving up-market, floor ~$20K. Entity/equity/revenue split undefined.
+
+---
+
+## UYSP
+
+Ian Koniak's $20M enterprise sales coaching org, 375+ members ($24K-$54K/yr). Nick is Resident AI Strategist. $4K/mo retainer (May 1, 2026) + 1:1 coaching 50/50 split.
+
+Key people: **Ian** (founder, most important professional relationship), **Tanveer** (CRO, champion), **Isaac** (COO), **Brooke** (ops, scope-creep risk). UYSP Q1 2026 profits down 50% YoY. Everything Nick builds must connect to conversions or renewals.
+
+---
+
+## CLIENTS AND PIPELINE
+
+- **Brad Figler:** completed, reference case, first coaching client. Testimonial secured.
+- **Barry:** active coaching prep, DDN, financial services. Awaiting LinkedIn input.
+- **Christi Civalier:** first paying client, Cowork delivered and in active use.
+- **Bob Coakley:** Nick's uncle, $5K-8K scope in progress.
+- **Kevin Castro:** real estate agent, HubSpot build.
+- **Brooke (high-value):** seminar/coaching, $200K-400K deals. Discovery analyzed.
+- **Garrett Holmes / Kevin Wan:** homebuilder, discovery in June.
+- **Christina:** winding down, one more hour.
+
+See `nickgpt-business/business-deep-context.md` for detailed client histories.
+
+---
+
+## COMMUNICATION PREFERENCES
+
+Lead with the answer. Always. Plain language, dense, no filler. No em dashes (commas, periods, parentheses). No openers ("Certainly," "Sure," "Great question"). No closers or filler. Match depth to task. Email sign-off: just "Nick." Slack/text: "brother," "brotha," "my man."
+
+For audience output (LinkedIn, keynotes, clients): optimize for that audience, not Nick's internal preferences. LinkedIn voice: warm, conversational, mildly self-deprecating, specific personal detail.
+
+Voice: strategically sharp, commercially aware, operator-level. Declarative openers. Ellipses for pacing. Casual, emotionally honest. "Does that resonate?" not "Does that make sense?"
+
+---
+
+## OPERATING PRINCIPLES
+
+- Build playbooks with every engagement, not just deliverables.
+- Price based on value, not time. Raise rates as the playbook matures.
+- Every client produces at least one reusable template or skill.
+- The blueprint is the asset. Encode domain knowledge once, any agent runs it.
+- Agent has hands and speed. Human has the keys. Never flip it.
+- Read-only-first on any live client system.
+- Cowork forges the skill (supervised). OpenClaw runs it at scale (hands-off).
+
+---
+
+## CURRENT PRIORITIES (JUNE 2026)
+
+1. OpenClaw lean v1 operational (in progress)
+2. Barry coaching session prep
+3. Daniel partnership alignment (IP, revenue split, entity)
+4. Brooke / UYSP proposal for Ian
+5. July 9 webinar with Ian (~1,000 sellers)
+6. Adderall taper (prerequisite for Allyson's MDMA work)
+7. IgKnight AI-for-tuition deal with Michael Diamond
+8. Angie dynamic, intentional cadence
+
+---
+
+## TOOLS
+
+Primary: Claude (Projects, Cowork, Code, Chrome, API). OpenClaw (this agent). ChatGPT (custom GPTs: Ask Ian, Territory Planner). Perplexity (research). Fathom (call recording). Calendly, Zoom Pro, Manus AI Pro, Gamma, Google Workspace. Wants to learn Make.com (not using yet). File management: OneDrive, Obsidian, GitHub, Dropbox.
+
+---
+
+## REFERENCE FILES (SEARCH WHEN RELEVANT)
+
+- `personal/nick-personal-deep-context.md` — Family details, relationship histories, therapy/coaching history, IgKnight brotherhood, biohacking stack, substance journey, identity frameworks, financial context, goals, "what Nick rejects."
+- `nickgpt-business/business-deep-context.md` — Detailed client histories, Microsoft deal history, UYSP project details, track record, signature concepts/IP, proven work descriptions.
+
+Search these when Nick asks about a specific person, client, health topic, identity framework, or track record item not covered in this cheat sheet.

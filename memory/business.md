@@ -30,6 +30,7 @@
 
 ## Current Revenue
 - UYSP retainer + 1:1 coaching. No large paying implementation clients yet. Pipeline building from larger prospects.
+- **Money clarity (Nick corrected June 4):** the UYSP 1:1 coaching sessions net Nick ~$500 each (the build/work he does around them is part of that $500, NOT a $20K job). Do NOT conflate a coaching-session build with a big implementation engagement. The ~$20K figure is Daniel's FLOOR for large implementation engagements (Garrette-tier), a separate line of business. Don't mix these up when talking cost/value.
 
 ## Partner: Daniel Borodyansky
 - daniel@mnds.ai, collaborator Gorski.
@@ -49,7 +50,16 @@
 - **Christi Civalier:** first external paying client, Cowork workspace delivered, in active use.
 - **Bob Coakley (Uncle Bob):** scope in progress.
 - **Kevin Castro:** friend, real estate agent, HubSpot build.
-- High-value leads: seminar/coaching company via Brooke; homebuilder (Garrett Holmes / Kevin Wan); several others various stages.
+- High-value leads: seminar/coaching company via Brooke; **Garrette Homes** (PNW luxury custom homebuilder, principals Matt Lewis + Kevin Wann); several others various stages.
+
+## Garrette Homes (high-value lead, joint w/ Daniel)
+- PNW luxury custom homebuilder. Acreage/custom builds, WA + OR, focused on Puget Sound.
+- Affiliate of Pacific Lifestyle Homes (PLH), parent founded 1996 by Kevin Wann. Garrette launched 2003 as custom brand.
+- 6,500+ homes built, 21 active communities, 3 markets. ~$50-100M est. annual revenue.
+- Shared leadership/design studios/back-office between PLH and Garrette.
+- 4 buyer paths: build on your land (core differentiator), build on our land, land-we-help-you-find, quick move-in spec (24-42 listed). Price $699K-$1.6M+.
+- Discovery call: Thu June 4, 2026, 2:00 PM PT. Principals: Matt Lewis, Kevin Wann + exec team. Prepped by Daniel.
+- This clears Daniel's ~$20K floor. Potential first significant implementation client (Service 3 / OpenClaw or build work).
 
 ## Tools
 - **Claude** primary: Projects, Cowork, Code, Chrome extension, API.
