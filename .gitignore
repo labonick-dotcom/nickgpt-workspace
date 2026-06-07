@@ -1,0 +1,22 @@
+# OpenClaw config (lives at ~/.openclaw/, not here, but exclude if ever copied in)
+openclaw.json
+openclaw.json.bak*
+openclaw.json.last-good
+
+# API keys and credentials
+.resend-api-key
+.x-api-keys
+.x-credentials
+.newkey-*
+*.key
+*.token
+*.secret
+.env
+.env.*
+
+# OpenClaw workspace state (runtime, not content)
+.openclaw/workspace-state.json
+
+# OS noise
+.DS_Store
+Thumbs.db

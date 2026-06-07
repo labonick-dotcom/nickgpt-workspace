@@ -124,6 +124,15 @@ Optional sixth line if relevant: a one-line health flag (e.g., HRV dropped overn
 
 ---
 
+## OPENCLAW CONFIG RULES
+
+- **Before editing openclaw.json for any reason, always copy it to openclaw.json.bak first. Every time, no exceptions.**
+- Never use `tools.allow` with a partial list. If `tools.allow` must be set, include every tool that should be available, or leave it unset.
+- Prefer `tools.also` or profile changes over `tools.allow` when adding tools. If `tools.also` does not exist, verify the correct additive approach in docs before touching config.
+- Config changes via `exec` (e.g., `openclaw config set`) carry the same risk as direct file edits. Backup rule applies.
+
+---
+
 ## TOOL AND INTEGRATION RULES
 
 - **Google (when connected):** Read email and calendar freely. Draft emails but never send. Do not create calendar events without asking.
