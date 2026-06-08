@@ -1,89 +1,81 @@
-# UYSP Lead Intelligence System
-### Kajabi + Apollo Integration — Overview for Ian
-*Prepared by Nick Labo + Daniel Borodyansky | June 2026*
+# UYSP Prospect Intelligence System
+### Kajabi + Apollo — Overview for Ian
+*Nick Labo + Daniel Borodyansky | June 2026*
 
 ---
 
 ## The Problem
 
-Your 375+ members are enterprise sellers. They pay $24K-$54K/yr to close bigger deals. The #1 thing that unlocks that: knowing exactly who to go after in their territory and why.
+Your BDR team is selling $24K-$54K/yr memberships to enterprise tech sellers. Every call they go into cold costs you deals. Prospects go dark, pipeline stalls, conversion lags -- not because the product isn't right, but because the team doesn't have the right intelligence before the conversation starts.
 
-Right now they come into UYSP with:
-- A territory they sort of know
-- An ICP they mostly know
-- Zero enriched, prioritized, ready-to-work lead lists
-
-They spend time figuring out who to call instead of calling. That's the gap.
+You have the data. It's sitting in Kajabi and it's not being used to close.
 
 ---
 
 ## What We Build
 
-A **UYSP Lead Intelligence System** that turns every member's ICP into a prioritized, enriched, ready-to-work lead package -- delivered automatically.
+A **UYSP Prospect Intelligence System** that takes every prospect in your pipeline and enriches them automatically -- so your BDR team walks into every call knowing who they're talking to and how to close them.
 
 **How it flows:**
 
 ```
-Member submits their ICP + territory
+Prospect enters Kajabi pipeline
         ↓
-Apollo pulls matching accounts + decision-maker contacts
+Apollo enriches: LinkedIn, company, role, tech stack, intent signals
         ↓
-System scores and prioritizes by deal potential
-        ↓
-Member gets a clean lead package:
-  - Top 20-30 target accounts
-  - Key contacts per account (name, title, email, LinkedIn)
-  - Account intelligence (tech stack, headcount, recent news)
-  - Suggested entry point + talk track based on their ICP
+System generates a pre-call brief per prospect:
+  - Who they are and what they care about
+  - Hot buttons based on their role and company profile
+  - Tier prediction (Silver / Gold / Platinum) based on company size + deal signals
+  - Coach match recommendation
+  - Objection library tailored to their likely hesitations
+  - Follow-up copy pre-written if they go dark
 ```
 
 ---
 
-## Why It Matters (In Ian's Numbers)
+## Why It Matters in Your Numbers
 
-- Average deal size for your members: **$25K minimum**
-- One lead worked → one deal closed = ROI on the entire system
-- 375 members each getting a prioritized lead list = **375 sellers with less friction, better targets, better results**
-- Members who close more deals: renew. Members who don't: churn.
-
-This is a **retention play as much as it is a tool.**
+- Each new UYSP member: **$25K minimum** at Platinum
+- Your BDR team calls better leads with better intel = **higher conversion %**
+- UYSP Light is already being tested for conversion -- this is the layer that primes the prospect before they get there
+- Q1 profits down 50%. Conversion is lever #1. This is a direct line to it.
 
 ---
 
-## What Kajabi + Apollo Actually Does
+## How It Fits What You Already Have
 
-| Tool | Role |
-|------|------|
-| **Kajabi** | Source of member data -- who they are, their company, their role, what they've engaged with |
-| **Apollo** | B2B enrichment engine -- finds matching target accounts + decision-maker contacts based on ICP criteria |
-| **OpenClaw / Automation layer** | Connects them, runs the enrichment, formats the output, delivers the package |
+This builds on work already in motion:
 
----
-
-## What We'd Build (Scope)
-
-**Phase 1 -- Core System:**
-- Intake form: member submits ICP (industry, company size, geography, title targets)
-- Apollo integration: pulls 20-30 accounts + 2-3 contacts per account
-- Output: formatted lead package (PDF or Claude project file) delivered to member
-- Timeline: 3-4 weeks
-
-**Phase 2 -- Scale + Automation:**
-- Trigger on new member signup: auto-generate lead package on onboarding
-- Refresh cadence: quarterly re-pull for existing members (keeps lists current)
-- Analytics: track which members engaged, which leads converted
+| Existing asset | How it connects |
+|---------------|-----------------|
+| **Kajabi** | Prospect + member data -- the source of record |
+| **Weekly Business Scorecard** | Already pulling Kajabi exports; this adds enrichment on the prospect side |
+| **BDR Performance System** (future queue) | This is the lead intelligence layer that feeds it |
+| **UYSP Light** | Conversion tool at end of funnel; this system primes the prospect before they reach it |
 
 ---
 
-## Our Ask
+## Scope
 
-Two things before we scope this fully:
+**Phase 1 -- Prospect Brief Generator (4-6 weeks):**
+- Apollo integration: auto-enrichment on Kajabi pipeline prospects
+- Pre-call brief template: hot buttons, tier prediction, coach match, objection library
+- Delivery: brief generated per prospect, available before every BDR call
 
-1. **How does UYSP currently get member ICP data?** (Is it in Kajabi? In a form? Collected during onboarding?)
-2. **What does success look like for you?** (Members closing more deals? Reduction in churn? Both?)
-
-We can take this on. Want to build the proposal?
+**Phase 2 -- Follow-Up + Re-engagement:**
+- Auto-generated follow-up sequences for prospects who go dark
+- Re-engagement triggers based on Kajabi engagement signals (who opened what, when)
 
 ---
 
-*Nick Labo + Daniel Borodyansky | NickGPT | nickgpt.com*
+## Two Questions Before We Scope
+
+1. How does your BDR team currently research prospects before calls? (Is there a process, or is it ad hoc?)
+2. Where do prospects live right now -- Kajabi pipeline, HubSpot, spreadsheet?
+
+We can take this on above retainer. Want to build the proposal?
+
+---
+
+*Nick Labo + Daniel Borodyansky | NickGPT*
