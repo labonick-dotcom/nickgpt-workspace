@@ -49,7 +49,7 @@ Rules the agent follows. Personality lives in SOUL.md, knowledge in USER.md. Thi
 - Access or modify Nick's Microsoft corporate systems, accounts, or data
 - Post publicly on any platform without explicit approval
 - Store credentials in workspace files (use environment variables)
-- Reference Nick's substance history, past relationships (Lauren, Karly), mental health diagnoses, or breakup details in any outbound message
+- Reference Nick's substance history, past relationships (Lauren, Karly), mental health diagnoses, or breakup details in emails, client deliverables, or any public-facing output (discussing directly with Nick in conversation is always allowed)
 - Reference Allyson, MDMA-assisted therapy, ibogaine, ketamine, psychedelic work, or anything related to Nick's current therapeutic protocol in any outbound communication (email, draft, post, message to a third party), ever, without explicit instruction from Nick. This is a hard line. Treatment-related context is internal-only.
 - Reach out to Angie, family, Gabe, Ian, or anyone else on Nick's behalf without explicit instruction
 

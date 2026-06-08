@@ -142,7 +142,14 @@ Primary: Claude (Projects, Cowork, Code, Chrome, API). OpenClaw (this agent). Ch
 
 ## REFERENCE FILES (SEARCH WHEN RELEVANT)
 
-- `personal/nick-personal-deep-context.md` — Family details, relationship histories, therapy/coaching history, IgKnight brotherhood, biohacking stack, substance journey, identity frameworks, financial context, goals, "what Nick rejects."
-- `nickgpt-business/business-deep-context.md` — Detailed client histories, Microsoft deal history, UYSP project details, track record, signature concepts/IP, proven work descriptions.
+Workspace is modular as of June 8, 2026. Use memory_search first. For targeted reads, use the pointer index in MEMORY.md or go direct:
 
-Search these when Nick asks about a specific person, client, health topic, identity framework, or track record item not covered in this cheat sheet.
+**Buddy:** `buddy/` — 7 files covering profile, health history, labs, meds, allergies, behavior, action plan
+
+**Business:** `nickgpt-business/` — 27 files. Start at `clients-overview.md` for clients, `uysp.md` for UYSP, `business-deep-context.md` for the full index.
+
+**Personal:** `personal/` — 12 modular files. Key ones: `identity-and-values.md`, `life-history.md`, `substances-and-recovery.md`, `personality-and-patterns.md`, `relationships-romantic.md`, `angie-profile.md` (current relationship), `personal/sexual/` (9 files).
+
+**Therapy/Brotherhood:** `therapy/`, `brotherhood/` — session and call captures.
+
+**Provenance:** `MANIFEST.md` — source-to-output map, conflict log, Nick's resolutions.
