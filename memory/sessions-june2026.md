@@ -174,6 +174,57 @@ Daniel role: AI pipelines, document parsing, monitoring, OpenClaw automation.
 
 ---
 
+## Nick + Daniel Sync Call (logged 2026-06-08)
+
+### Nate (UYSP Claude Project Client) -- Problem
+- Sent his whole hard drive worth of data, then silently added more files on Friday without telling Nick.
+- Nick only had 3/5 voice match in his QA audit. Needed more sample emails, not more data.
+- Nick had to reschedule, charging $500 for the re-audit.
+- **Rule to add to client intake:** Never say "more data the better." Always say "give me everything at once and notify me if you add anything."
+- Nick has built 5 projects, 2 more to build. 3+ hours each. ~$2,500 total gross for 15+ hours. Not a good hourly rate -- this is experience-building. Golden template needs to get finished.
+
+### Vending Group -- Wednesday Call Prep
+- Kill SEO Health Monitor from the pitch. Lead with two use cases: AI lead capture/qualification + website AI optimization.
+- Daniel built a working demo on Vercel and an HTML proposal.
+- Framing: don't fix what they have. Show them what AI-native looks like from scratch.
+- Performance deal model floated: % of contracts above 200 (currently at 151).
+- Full rebuild market value: $20-25K. Don't commit to that scope or maintenance.
+- Gorski call Wednesday 5pm -- get dev team capacity before committing to build.
+- HubSpot error in Daniel's proposal: they DO have HubSpot integration. Fix before call.
+
+### Allegro Advisory -- Discovery Upcoming
+- Easy OpenClaw/knowledge-extraction play. Same as Christi/Ian model.
+- Brian (ops) is the champion. Brooke connects them. Nick doesn't know Brian.
+- Key question: what workflows does Kara run repeatedly that can be systematized?
+
+### Ian One-on-One (Tomorrow, June 9, 4:30 PM ET)
+- Nick pitching Kajabi + Apollo lead enrichment system.
+- Artifact built: `nickgpt-business/ian-kajabi-apollo-artifact.md`
+- Frame: equip UYSP sellers with enriched lead lists → they close more → renew their memberships.
+- One deal closed = $25K minimum for these sellers. System pays for itself instantly.
+- Ask Ian: how does UYSP currently capture member ICP data? What does success look like?
+
+### Webinar Strategy Update (July 9)
+- Highest leverage item Nick + Daniel aren't working enough.
+- Product concept: downloadable AI assistant kit, demo live on stage, intake-via-skill, "Interview me" to start.
+- Ian gets a cut; Nick + Daniel keep the IP and customer list.
+- Need working session every other day minimum. Thursday 9am PT / 12pm ET scheduled.
+
+### Kevin Castro
+- Yacht company referral pending. Nick texted Kevin during call. Waiting on response.
+
+### Pipeline Notes
+- Jesse (tax deed): lower priority, warm relationship, don't rush.
+- Garrett Fox (KB Home homebuilder): Daniel doesn't want this one. 15 priorities, Microsoft security audit, too sticky. Nick agrees it's lower priority.
+- Daniel is $3K down on OpenClaw token spend. Both committed to start asking for money this week.
+
+### Microsoft Laptop Risk (Daniel flagged)
+- Nick is running consulting calls on his Microsoft Surface. Copilot telemetry can show activity patterns.
+- Daniel: "They're going to be like, who the hell is daniel@gmail.com?"
+- Worth shifting consulting calls to the MacBook Air. Not doing it fully yet because desktop setup is on the Surface.
+
+---
+
 ## OpenClaw Cost-Optimization Skill -- Business Idea (logged 2026-06-07)
 - Daniel named it "open cost" skill on the call. Idea: packaged skill/offering that configures OpenClaw for cost-optimal client builds.
 - Covers: what plugins to enable, how to set up Dream Mode, how to route tasks to cheap models, how to manage token usage, what to avoid.

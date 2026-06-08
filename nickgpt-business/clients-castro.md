@@ -27,5 +27,7 @@ Phase 1 (HubSpot shell + custom project) first; phase 2 (social, SMS) charged se
 
 Active pipeline. Phase 1 in progress; do not open phase 2 until phase 1 is polished and Kevin is gated.
 
+**June 8 update:** Kevin also has a yacht company referral lead in play. Nick texted him during the Nick + Daniel sync: "Yo, where's our yacht?" Waiting on response. Follow up if no reply by end of week.
+
 ---
 *Source: 13_Clients_and_Pipeline.md, 10_Coaching_Project_Build_Methodology.md*

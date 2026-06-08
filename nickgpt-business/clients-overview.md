@@ -11,7 +11,9 @@
 
 ## Active Pipeline (Nick + Daniel)
 
-- **Kevin Castro** → clients-castro.md — HubSpot shell + custom project as initial scope; phase 2 (social, SMS) after phase 1 polished. Risk: over-configures himself (6 hrs on HubSpot). Gate before phase 2.
+- **Vending Group** → clients-vending-group.md — National vending matchmaker, Aja Pascale (President). Contracts 326→151, paid traffic up but not converting. Wednesday call to present AI lead capture + website optimization. Performance deal model in play. Daniel has Vercel demo + HTML proposal.
+- **Allegro Advisory** → clients-allegro.md — Kara Jorvik's executive advisory firm. Brian (ops) is AI champion, Brooke is connector. OpenClaw/knowledge-extraction play. Easy discovery → build. No call scheduled yet.
+- **Kevin Castro** → clients-castro.md — HubSpot shell + custom project as initial scope; phase 2 (social, SMS) after phase 1 polished. Risk: over-configures himself (6 hrs on HubSpot). Gate before phase 2. Also has yacht company referral pending.
 - **Garrett Holmes / Kevin Wan (homebuilder, Pacific NW)** → clients-holmes-wan.md — Discovery in June. Surface pain, find 2-3 agentic AI plays. Nick is a homebuyer with them.
 - **High-value seminar/coaching prospect** → clients-seminar-prospect.md — Company sells $200K-$400K seminar deals; freeing ~20% of operator capacity framed as path to ~$10M. Catalyst for the June 2 up-market shift.
 
