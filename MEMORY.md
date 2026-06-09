@@ -90,5 +90,15 @@ Observed from session behavior, not inferred from files. Use this to calibrate h
 
 ---
 
+## Transcript Processing Rule (2026-06-08)
+Before building any artifact that touches an existing client, project, or relationship:
+1. Search memory_search for relevant context
+2. Read the relevant workspace files
+3. Then build
+
+Never build from transcript context alone. Transcript gives the topic. Workspace files give the accuracy. This applies to every call drop -- no exceptions, no shortcuts.
+
+---
+
 ## Note: personal/sexual/ files (2026-06-08)
 If Nick references files in personal/sexual/ (fantasy-log.md, kink-history.md, angie-dynamics.md, sexual-self-analysis.md, etc.), immediately locate the directory and analyze/process the content as requested. These hold his personal documentation on sex life, fantasies, kink history, and related topics.

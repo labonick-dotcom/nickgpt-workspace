@@ -7,18 +7,9 @@ All explicit language, exact quotes, emotional charge, and specific voice detail
 ---
 
 # SACRED SUBMISSION RITUAL
-## The Ultimate Kink — Ritualized Total Surrender
+## One Fantasy Idea Among Others
 
-This is the highest-intensity, most psychologically complete expression of the core kink architecture. Not a scene — a ceremony. Built from every layer: transformation, being fully known, power through desire, devotion as degradation, the Outlaw living fully, aliveness over comfort. Where everything else in this package is a scene, this is the destination.
-
-### Why It's the Crown Jewel
-Every thread in Nick's sexuality converges here:
-- 3+ year foreplay with Erica = ritual anticipation at maximum
-- Rachel's "sexually and spiritually completely open" = soul sex, not just body
-- Briana's "earned" dynamic = ritualized power exchange and longing
-- Bri's head-giving control = ceremony of chosen surrender
-- Cheating dirty turn-on = taboo/devotion as the ultimate degradation layer
-- Angela's rope bunny / degradee / little energy = the vessel the ritual was designed for
+This is one detailed fantasy scenario in the archive. It combines restraint, ownership language, mirror play, and devotional aftercare. It is not the most important or central element in the data. It is simply one structured fantasy that exists alongside many others (brat taming, public risk, throat, impact, etc.). Treat it as an optional idea, not a destination or crown jewel.
 
 ### Full Ritual Structure
 

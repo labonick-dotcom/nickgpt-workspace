@@ -22,9 +22,9 @@ Hardware: MacBook Air 15-inch M5 (personal, consulting). Surface Laptop 5 (Micro
 
 ## PERSONAL LIFE (OVERVIEW)
 
-Lives alone with **Buddy** (boxer-pitbull mix, ~8-9 yrs, central to daily life, complex health history). **Angie** (active developing romantic relationship, May 2026 onward, based in Fort Lauderdale, INFP, Advaita Vedanta framework, first partner who pushes back and holds her own). **Mom Karen** (closest confidant, recently diagnosed with rare blood cancer, complex history). **Uncle Bob** (weekly anchor, also a NickGPT prospect). **Gabe** (closest friend, Fort Myers). **Brian Steel** (best friend, moving to Florida). **Sister Jenna** (Tampa, sober 8 yrs, primary emotional support). **Dad Steve** (South Carolina, reconnected). Brothers Chris (Raleigh) and Stevie (Nashville).
+Lives alone with **Buddy** (boxer-pitbull mix, ~8-9 yrs, central to daily life, complex health history). **Angie** (casual/sexual, not official, May 2026 onward, based in Fort Lauderdale, INFP, Advaita Vedanta framework -- Nick has described this as a fun fling, probably won't become official). **Mom Karen** (closest confidant, recently diagnosed with rare blood cancer, complex history). **Uncle Bob** (weekly anchor, also a NickGPT prospect). **Gabe** (closest friend, Fort Myers). **Brian Steel** (best friend, moving to Florida). **Sister Jenna** (Tampa, sober 8 yrs, primary emotional support). **Dad Steve** (South Carolina, reconnected). Brothers Chris (Raleigh) and Stevie (Nashville).
 
-Member of **IgKnight Brotherhood** ($21K/yr men's development, Michael Diamond). Volunteers with **All Things Made New** (5+ yrs mentoring boys). Christian faith, reflective and evolving.
+Member of **IgKnight Brotherhood** (men's development, Michael Diamond). Currently negotiating with Michael to trade AI services for 4th year membership dues -- deal not yet finalized, so cost this year is TBD. Volunteers with **All Things Made New** (5+ yrs mentoring boys). Christian faith, reflective and evolving.
 
 See `personal/nick-personal-deep-context.md` for detailed family, relationship, and personal development context.
 

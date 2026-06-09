@@ -1,6 +1,6 @@
 # Angie Dynamics — Relationship & Sexual Personality
 
-**Relationship Status (as of June 2026):** Not officially dating. Talking since end of March 2026. Have hung out twice in person. Connection is real and developing but no defined relationship yet.
+**Relationship Status (as of June 2026):** Not officially dating. Talking since end of March 2026. Have hung out twice in person. Third weekend upcoming (Nick traveling to Fort Lauderdale). Connection is real, accelerating, and emotionally deep. Strong mutual alignment around parental trauma.
 
 Source: Primarily Angela_Complete_Sexual_Profile.md (verified BDSM tests, 3 real text exchanges with analysis, 4 showcase fantasies, proven turn-ons, dirty talk library, compatibility insights, actionable recommendations). Cross-referenced with psychological profiles for deeper emotional layers (transformation, being chosen, power through desire) that appear in the dynamic.
 
@@ -25,6 +25,9 @@ Key Pattern: She enjoys a little bratty pushback but folds beautifully and gets 
 - Daddy Framing + "Little Slut" Language: "daddy’s perfect little slut", "bad little brat", "my little baby", "good lil slut". Protective/caring "father figure" feeling in aftercare + rough use works extremely well.
 - Clear Commands + Obedience Testing: Direct tasks (edge then taste self and report while thinking of being tied/used) met with instant "Thank you daddy 😩 yes I understand, gonna be your good lil slut & do this right now 😩💦".
 - Being Told She’s Irreplaceable / Chosen for This: Echoes of psych themes — she wants to feel like the one who gets this dark, intense, transformative version of him.
+- Period Sex: Gets very horny on her period and explicitly wants it.
+- Suit Fantasy: Strong turn-on from being completely naked while he is fully dressed in a suit.
+- Heavy Daddy Language: Frequent, natural use of “daddy,” “dadddy,” “daddy boo” in both affectionate and explicit contexts.
 
 ## How She Takes Control / Pushes Back (Brat Energy)
 - Uses smart/bratty mouth to provoke (Fantasy 3 structure).
