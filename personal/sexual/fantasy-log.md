@@ -4,6 +4,29 @@ Sources: Angela_Complete_Sexual_Profile.md (4 showcase fantasies verbatim + dirt
 
 All explicit language preserved exactly. Grouped by category. Frequency/strength noted. Strongest response elements, triggers, settings, emotional beats highlighted. Psychological layers integrated where they explain why certain fantasies hit hardest.
 
+---
+
+## Played-Out Scenes / Session Archive
+
+### Session: Threesome — Angie Restrained + Allie Active (June 9, 2026)
+
+**Setup:** Full three-way. Angie in a deep frog tie (wrists behind back, ankles secured to thighs, legs spread wide, completely immobile). Allie free-moving. Nick in control of both.
+
+**Arc:**
+1. Nick strips Allie's shirt, sucks her tits while holding eye contact with Angela.
+2. Walks over to tied Angie, pulls out and face fucks her aggressively. Angie helpless to resist, Allie watching/touching herself.
+3. Nick returns to couch, pulls Allie onto his lap. Slow build, Allie slides his cock inside her while Angie watches restrained and can't do anything.
+4. Nick pulls out, walks Angie through cleaning his cock — she tastes Allie's pussy directly off him.
+5. Bends Allie over and fucks her hard from behind. Takes deliberate breaks, returns to Angie for cleanup, repeats.
+
+**Key Elements Activated:** Restraint (frog tie, full immobility), voyeurism forced on Angie (can't look away, can't participate), degradation via cleanup duty, switching between the two women as a control mechanic, Angie as both participant and audience.
+
+**Psychological Layer:** Angie forced to watch her best friend get fucked, used intermittently as an object (throat/cleanup) rather than a full partner — pure helplessness layered with jealousy, arousal, and submission. Allie gets the active role; Angie gets the owned/used role.
+
+**Tone:** Aggressive, non-stop, dominant. Nick dictated pace entirely.
+
+---
+
 ## Recurring Fantasy Themes (Ranked by Frequency & Strength in Data)
 
 ### 1. Restraint / Helplessness / Complete Surrender (Highest Frequency — Core in Angela Data + High Scores)
