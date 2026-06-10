@@ -33,7 +33,7 @@
 - **Money clarity (Nick corrected June 4):** the UYSP 1:1 coaching sessions net Nick ~$500 each (the build/work he does around them is part of that $500, NOT a $20K job). Do NOT conflate a coaching-session build with a big implementation engagement. The ~$20K figure is Daniel's FLOOR for large implementation engagements (Garrette-tier), a separate line of business. Don't mix these up when talking cost/value.
 
 ## Partner: Daniel Borodyansky
-- daniel@mnds.ai, collaborator Gorski.
+- daniel.borodyansky@gmail.com, collaborator Gorski.
 - Similar skill sets, neither traditional developer. Daniel = more the OpenClaw specialist, handles builds via MNDS AI.
 - Two-person shop: shared pipeline, joint discovery calls, Tuesday sync.
 - As of June 2: moving up-market to higher-value engagements (Daniel's floor ~$20K/engagement), away from low-value one-offs.

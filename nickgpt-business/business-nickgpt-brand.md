@@ -22,7 +22,7 @@ NickGPT is an operator's business — Nick built specific tools for a specific m
 
 ## The Daniel Partnership (External Build Partner)
 
-**Who:** Daniel Borodyansky. Delivery and build partner for the external (non-UYSP) work. West Coast (~3 hours behind Nick). Has a full-time job too. Backend/dev work runs through his **MNDS AI** setup (mnds.ai; collaborator **Gorski**).
+**Who:** Daniel Borodyansky. Delivery and build partner for the external (non-UYSP) work. West Coast (~3 hours behind Nick). Has a full-time job too. Backend/dev work runs through his **MNDS AI** setup (mnds.ai; collaborator **Gorski**). Email: daniel.borodyansky@gmail.com.
 
 **What it is now (June 2026):** a genuine two-person operation — a shared pipeline/deal dashboard ("mission control"), joint discovery calls, split build work, and a recurring sync (loosely Tuesday afternoons Eastern). Both treat it as a real business with more inbound than they can handle around two day jobs.
 

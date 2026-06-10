@@ -90,6 +90,18 @@ Observed from session behavior, not inferred from files. Use this to calibrate h
 
 ---
 
+## Search Provider Preference (2026-06-10)
+Always prefer Perplexity over DuckDuckGo for web_search. Perplexity synthesizes sources; DuckDuckGo just lists links. Only fall back to DuckDuckGo if Perplexity fails or returns no results.
+
+---
+
+## Memory Search Defaults (2026-06-10)
+Always call memory_search with maxResults: 20 (not the default 6).
+For complex personal, business, or relationship questions, run 2-3 parallel searches with different query angles before answering.
+Example: "Nick goals 2026" + "Nick priorities current" + "NickGPT business direction" fired together, not sequentially.
+
+---
+
 ## Transcript Processing Rule (2026-06-08)
 Before building any artifact that touches an existing client, project, or relationship:
 1. Search memory_search for relevant context

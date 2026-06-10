@@ -72,7 +72,7 @@ Sole proprietor, Schedule C, Chase Business Complete Checking. S-Corp planned la
 
 **Services:** (1) UYSP 1:1 coaching ($1,000/hr to client, 50/50 split, capacity 15 hrs/month). (2) Cowork workspace implementation ($750 founding, scales to $1,500-2,000). (3) OpenClaw client instances ($2,500-50,000+ setup + retainer). **Current revenue reality:** retainer + coaching only. No large implementation clients yet. Strong pipeline building.
 
-**Partner: Daniel Borodyansky** (daniel@mnds.ai, collaborator Gorski). Similar skill sets, neither is a traditional developer. Daniel is the OpenClaw specialist. Shared pipeline, Tuesday sync. Moving up-market, floor ~$20K. Entity/equity/revenue split undefined.
+**Partner: Daniel Borodyansky** (daniel.borodyansky@gmail.com, collaborator Gorski). Similar skill sets, neither is a traditional developer. Daniel is the OpenClaw specialist. Shared pipeline, Tuesday sync. Moving up-market, floor ~$20K. Entity/equity/revenue split undefined.
 
 ---
 
