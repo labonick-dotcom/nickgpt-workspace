@@ -90,6 +90,32 @@ Observed from session behavior, not inferred from files. Use this to calibrate h
 
 ---
 
+## Gorski Call + Key Strategic Shifts (2026-06-10)
+See full context: `nickgpt-business/gorski-call-june10-2026.md`
+
+**Chris Gorski** -- Nick's 15-year friend, Fort Myers. Runs Golden Commerce (gogoldencommerce.com) -- WooCommerce SaaS for precious metals retailers. $0 upfront, $300/month. Core product: dynamic pricing from live spot feed + POS as source of truth. Biggest pain: client onboarding (manual inventory entry). AI opportunity: voice memo → SKU mapping.
+
+**Ian model reframe (Gorski's idea, confirmed):** Current subcontracting model is unsustainable (~$500 per 3-hr project). Pivot: tell Ian "this is the business we're spinning off, pay you a referral fee per client." Ian will be supportive. July 9 webinar is the launch vehicle.
+
+**Niche locked: coaching.** No more house-of-cards one-off website projects. Build coaching AI product website + Stripe first. That's the unlock.
+
+**Blocking items before scale:** website, bank account, entity structure, productized offer (landing page + Stripe).
+
+**Deal intelligence product (Daniel's vision):** AI-native deal workspace -- sidebar with live deals, click in to see discovery notes/milestones/timelines/people, agent for next step, all skills built in. Prototype exists in VS Code. Daniel wants to give code to Fable to build working version.
+
+**Allegro / Kara:** 2nd call = 30-min meet & greet, pure discovery, no use cases. Sell vision indirectly via UYSP credibility. Come back after with full readout.
+
+**Daniel action items:** go hard on Fable; use -n flag for new sessions; run OpenClaw audit prompt Nick emailed; enable past conversation search.
+
+## Fathom Integration (2026-06-10)
+Connected and verified. API key stored in `~/.openclaw/.env` as `FATHOM_API_KEY`.
+Base URL: `https://api.fathom.ai/external/v1/`
+Auth header: `X-Api-Key: $FATHOM_API_KEY`
+Key endpoints: `/meetings` (list), `/recordings/{id}/transcript`, `/recordings/{id}/summary`
+Transcripts/summaries are NOT returned inline on /meetings -- must fetch per recording_id.
+
+---
+
 ## Search Provider Preference (2026-06-10)
 Always prefer Perplexity over DuckDuckGo for web_search. Perplexity synthesizes sources; DuckDuckGo just lists links. Only fall back to DuckDuckGo if Perplexity fails or returns no results.
 

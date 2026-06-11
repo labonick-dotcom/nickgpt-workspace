@@ -102,6 +102,20 @@
 - [ ] **Before meeting Kara:** package everything up, spoon-feed it, she doesn't need to sit in the details. Nick said this explicitly. Identify per use case who needs to be in the room.
 - [ ] **Second call format:** "Buffet" -- here's everything we see, walk through each, you tell us what to prioritize
 
+## Kara Call Strategy (Updated June 10, from Nick/Daniel debrief)
+
+**Do NOT lead with use cases.** Use the second call as a 30-minute meet-and-greet with Kara (and Allison). Pure discovery only.
+
+- Focus: understand what goes into client delivery, specifically Kara's role step by step
+- Mention the UYSP/Ian work organically -- let credibility land through conversation, not a pitch
+- Sell the vision indirectly. Don't pitch. Let them sell themselves.
+- After the call: come back with the full use case readout and impress them (same playbook as the vending group call June 10)
+
+Daniel's framing: "Come back and impress the shit out of them."
+Nick: "I don't want to lead in with use cases."
+
+*Updated from Nick/Daniel debrief June 10 2026*
+
 ---
 
 ## Discovery Gaps (Need in Call 2)

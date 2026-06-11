@@ -33,6 +33,18 @@ NickGPT is an operator's business — Nick built specific tools for a specific m
 
 **Open structural question (FLAG):** the entity, equity, and revenue split of the external business are not formally defined. Worth deciding explicitly (collaborator vs partner vs co-founder); the economics and the brand both depend on it.
 
+## The Ian Model Reframe (June 10, 2026)
+
+**The current Ian structure is unsustainable.** Nick's retainer is offset by doing free custom projects for Ian's coaching clients. ~3 hrs of work per project for ~$500. Not a business.
+
+**The pivot:** Go to Ian and say: "This project work we've been doing for your clients -- that's the business we're spinning off. We want to pay you a referral fee for every client we bring from your audience." Nick and Daniel own the client relationship. Ian gets passive referral income. Builds their brand, not Ian's.
+
+This reframe emerged from the Gorski call June 10. Nick confirmed Ian will be supportive. Not adversarial. The July 9 webinar (~1,000 sellers) is the target vehicle for launching this as a standalone product.
+
+**Niche confirmed: coaching.** Stop spreading across one-off custom projects. Build a website for the coaching AI product. Landing page + Stripe. That's the immediate unlock.
+
+---
+
 ## The June 2 Up-Market Strategic Shift
 
 **Strategic shift (June 2, 2026 sync):** move up-market. Stop spending hours on small low-value favors; go after SMBs with real budget and real pain. **Daniel's stated floor is ~$20K per engagement.** Earlier small builds are reframed as proof-of-concept, not the model.
