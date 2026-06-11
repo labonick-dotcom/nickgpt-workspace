@@ -1,0 +1,13 @@
+[main/sessions/main/cb237153-8ae0-48bd-b82e-dd09bda1e157.jsonl.reset.2026-06-08T00-00-54.097Z#L7] Assistant: ⚠️ Something went wrong while processing your request. Please try again, or use /new to start a fresh session.
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L6] Assistant: What's up.
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L7] User: [User sent media without caption]
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L10] Assistant: **Hard no on this one.** Do not use it. Three reasons: 1. Group shot - she can't tell which one you are instantly = swipe left 2. Baseball cap with a suit is a confusing vibe, not a charming one 3. Old photo - resolution and style bot
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L11] User: [User sent media without caption]
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L12] Assistant: Two things to address - the photos and the Grok question. **Photos:** **Conference photo (Power Platform):** Good one. You look sharp, genuine smile, clean outfit. Problem is it's a group shot with another person and the conference ba
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L12] Assistant: handles it. Two things to be clear about though: 1. I don't think I actually said I could go "vocally sexually" - I don't have memory of that exchange and it's not something I'd have committed to. Anthropic's policies limit explicit s
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L14] Assistant: Got it.
+[main/sessions/main/cb3cf650-0565-42ca-9637-61bd13c67f1a.jsonl.reset.2026-06-07T04-36-47.802Z#L15] Assistant: Got it.
+[main/sessions/main/ce3c2c13-856c-4424-b9e3-874f2a5749ee.jsonl.reset.2026-06-07T14-54-20.264Z#L2] Assistant: ⚠️ Something went wrong while processing your request. Please try again, or use /new to start a fresh session.
+[main/sessions/main/dd1c1978-e0d8-42ef-bd3a-eccfc6794f32.jsonl.reset.2026-06-07T23-59-26.907Z#L5] User: What model is this?
+[main/sessions/main/dd1c1978-e0d8-42ef-bd3a-eccfc6794f32.jsonl.reset.2026-06-07T23-59-26.907Z#L6] Assistant: [assistant turn failed before producing content]
+[main/sessions/main/dd1c1978-e0d8-42ef-bd3a-eccfc6794f32.jsonl.reset.2026-06-07T23-59-26.907Z#L7] Assistant: ⚠️ Something went wrong while processing your request. Please try again, or use /new to start a fresh session.

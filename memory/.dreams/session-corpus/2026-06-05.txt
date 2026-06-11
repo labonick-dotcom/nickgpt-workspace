@@ -1,0 +1,2 @@
+[main/sessions/main/b50164c8-9fe6-4d26-9ba9-4e2b242e7f00.jsonl.reset.2026-06-05T22-21-44.146Z#L2] Assistant: ⚠️ Something went wrong while processing your request. Please try again, or use /new to start a fresh session.
+[main/sessions/main/b72d287a-498f-4d37-bec2-1a2aa5cb0cf4.jsonl.reset.2026-06-05T22-23-23.168Z#L2] Assistant: ⚠️ Something went wrong while processing your request. Please try again, or use /new to start a fresh session.

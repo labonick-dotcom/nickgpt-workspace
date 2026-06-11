@@ -1,0 +1,2 @@
+[main/sessions/main/5b0482f8-c0c2-4d1e-ad82-2cf6b5fce226.jsonl#L8] Assistant: Indexing now.
+[main/sessions/main/b59c26ea-d6f8-4d88-bac1-3283b72fe524.jsonl#L8] Assistant: Running.
