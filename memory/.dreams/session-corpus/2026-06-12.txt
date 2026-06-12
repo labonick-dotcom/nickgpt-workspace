@@ -1,0 +1,3 @@
+[main/sessions/main/1aa96b1c-981b-49ab-b427-efc7bc0c8c45.jsonl#L5] User: Try now
+[main/sessions/main/1aa96b1c-981b-49ab-b427-efc7bc0c8c45.jsonl#L10] Assistant: Still hitting `invalid x-api-key` — the env var on Vercel still has the wrong value. You need to set it manually in the Vercel dashboard. Here's the exact path: 1. Go to **vercel.com/dashboard** 2. Click your **coachbot-demo-two** project 3. **Settings → Environmen
+[main/sessions/main/1aa96b1c-981b-49ab-b427-efc7bc0c8c45.jsonl#L11] Assistant: Still hitting `invalid x-api-key` — the env var on Vercel still has the wrong value. You need to set it manually in the Vercel dashboard. Here's the exact path: 1. Go to **vercel.com/dashboard** 2. Click your **coachbot-demo-two** project 3. **Settings → Environmen
